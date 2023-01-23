@@ -202,6 +202,8 @@ header .menu-btn img{
 .top_blog_img_container img{
     max-width: 7rem;
     width: 100%;
+    height: 100%;
+    object-fit: cover;
 }
 
 
